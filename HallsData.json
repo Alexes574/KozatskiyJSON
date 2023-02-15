@@ -1,0 +1,43 @@
+{
+    "type": "list",
+    "data": {
+        "halls": [
+            {
+                "name": "CONFERENCE HALL 1",
+                "info": {
+                    "Floor space" : 39.4
+                    "Length x Width" : 5.8 , 6.8,
+                    "Coast": {
+                        "per hour": 650,
+                        "starting at 5th hour": 400,
+                        "day": 4000
+                    }
+                }
+            },
+            {
+                "name": "CONFERENCE HALL 3",
+                "info": {
+                    "Floor space" : 345
+                    "Length x Width" : 15,3 , 22.6,
+                    "Coast": {
+                        "per hour": 1500,
+                        "starting at 5th hour": 1200,
+                        "day": 12500
+                    }
+                }
+            },
+            {
+                "name": "CONFERENCE HALL 4",
+                "info": {
+                    "Floor space" : 42
+                    "Length x Width" : 5.8 , 6.8,
+                    "Coast": {
+                        "per hour": 650,
+                        "starting at 5th hour": 400,
+                        "day": 4000
+                    }
+                }
+            }
+        ]
+    }"
+}
