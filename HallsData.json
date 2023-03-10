@@ -1,35 +1,30 @@
 {
     "type": "list",
-    "data": {
-        "halls": [
+    "halls": [
             {
                 "name": "CONFERENCE HALL 1",
-                "info": {
-                    "floorSpace" : "39.4",
-                    "upTo": "45",
-                    "lengthWidth" : [5.8 , 6.8],
-                    "сoast": [650.0 ,400.0 ,4000.0]
-                }
+                "floorSpace" : "39.4",
+                "upTo": "45",
+                "lengthWidth" : [5.8 , 6.8],
+                "сoast": [650.0 ,400.0 ,4000.0]
+
             },
             {
                 "name": "CONFERENCE HALL 3",
-                "info": {
-                    "floorSpace" : "345",
-                    "upTo": "250",
-                    "lengthWidth" : [15.3 , 22.6],
-                    "сoast": [1500.0 ,1200.0 ,12500.0]
-                }
+                "floorSpace" : "345",
+                "upTo": "250",
+                "lengthWidth" : [15.3 , 22.6],
+                "сoast": [1500.0 ,1200.0 ,12500.0]
+                
             },
             {
                 "name": "CONFERENCE HALL 4",
-                "info": {
-                    "floorSpace" : "42",
-                    "upTo": "50",
-                    "lengthWidth" : [5.8 , 6.8],
-                    "сoast": [650.0 ,400.0 ,4000.0 ]
-                }
+                "floorSpace" : "42",
+                "upTo": "50",
+                "lengthWidth" : [5.8 , 6.8],
+                "сoast": [650.0 ,400.0 ,4000.0 ]
         
             }]
-    }
 }
+
 
